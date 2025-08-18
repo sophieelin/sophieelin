@@ -4,7 +4,7 @@
 - Software Engineer (Machine Learning + Full Stack) 
 - Percussionist and Music Tech Blogger
 
-I’m passionate about building technologies that prioritize people -- secure, explainable, and designed to make a real difference. I’m especially interested in agentic AI, machine learning, full-stack development, and high-performance computing. In my free time, I love exploring creating ethical and explainable AI and creating AI applications in music.
+I’m passionate about building technologies that prioritize people -- secure, explainable, and designed to make a real difference. I’m especially interested in agentic AI, machine learning, full-stack development, and high-performance computing. In my free time, I love exploring ethical and explainable AI and creating AI applications in music.
 
 ---
 
@@ -30,9 +30,9 @@ I’m passionate about building technologies that prioritize people -- secure, e
 ---
 
 ## Hobbies/Interests
--  **Percussionist** with 12+ years of experience — hosted MIT’s first solo marimba recital, winner of the MITSO Concerto Competition, and international competition winner. 
+-  **Percussionist** with 12+ years of experience — hosted MIT’s first solo marimba recital, winner of the 2025 MITSO Concerto Competition, and international competition winner. 
 - **Matcha & tea enthusiast** — experimenting with new recipes and exploring unique teas from around the world.  
-- **Blogger & writer** — sharing reflections on tech, music, and personal growth. 
+- **Blogger** — sharing reflections on tech, music, and personal growth. 
 
 ---
 
