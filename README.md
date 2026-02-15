@@ -1,8 +1,7 @@
-## Hi there, I'm Sophie 👋
+## Hi there, I'm Sophie Lin!
 
 - Junior at Wellesley College, studying Computer Science
 - Software Engineer (Machine Learning + Full Stack) 
-- Percussionist and Music Tech Blogger
 
 I’m passionate about building technologies that prioritize people -- secure, explainable, and designed to make a real difference. I’m especially interested in agentic AI, machine learning, full-stack development, and high-performance computing. In my free time, I love exploring ethical and explainable AI and creating AI applications in music.
 
