@@ -11,7 +11,7 @@ I’m passionate about building technologies that prioritize people -- secure, e
 ##  Current Positions
 - **[MIT Media Lab](https://www.media.mit.edu/): Live Music Generation with Machine Learning**: Evaluating and benchmarking Audio-to-MIDI systems for accuracy, flexibility, and inference.
 
-- **[Pittsburgh Supercomputing Center](https://www.media.mit.edu/): LSTM Autoencoder Command Line Anomaly Detection**: Designing and implementing an LSTM autoencoder for anomaly detection in command-line logs to help secure large-scale supercomputing resources.  
+- **[Pittsburgh Supercomputing Center](https://www.psc.edu/)): LSTM Autoencoder Command Line Anomaly Detection**: Designing and implementing an LSTM autoencoder for anomaly detection in command-line logs to help secure large-scale supercomputing resources.  
 
 ## Current Personal Projects
 - **Machine Learning Experiments**: Prototyping an agentic RAG pipeline to analyze and reason with compliance documents to support decision-making.  
@@ -21,26 +21,18 @@ I’m passionate about building technologies that prioritize people -- secure, e
 ---
 
 ## Technologies/Skills
-- **Programming Languages**: Python, Java, C++, JavaScript
+- **Programming Languages**: Python, Java, C, JavaScript
 - **Machine Learning & AI**: PyTorch, TensorFlow, Pandas, NumPy, scikit-learn, Transformers, Autoencoders, Recommender Systems, Retrieval-Augmented Generation (RAG)
-- **Web Development**: React, Node.js, Tailwind CSS, Spring Boot, Postgres SQL, REST APIs
+- **Web Development**: Flask, MySQL, React, Node.js, Tailwind CSS, Spring Boot, REST APIs
 - **Tools & Platforms**: Git, Linux, Docker
 - **Domain Expertise**: Music Technology, Agentic AI, Generative AI
-
----
-
-## Hobbies/Interests
--  **Percussionist** with 12+ years of experience — hosted MIT’s first solo marimba recital, winner of the 2025 MITSO Concerto Competition, and international competition winner. 
-- **Matcha & tea enthusiast** — experimenting with new recipes and exploring unique teas from around the world.  
-- **Blogger** — sharing reflections on tech, music, and personal growth. 
 
 ---
 
 ## Contact
 - **Email**: [sophielin.net@gmail.com](sophielin.net@gmail.com)
 - **LinkedIn**: [linkedin.com/in/sophie-a-lin](https://www.linkedin.com/in/sophie-a-lin/)
-- **Website**: [sophielin.net](https://www.sophielin.net/)  
-- **Blog**: [sophlin.substack.com](https://sophlin.substack.com/)
+<!--- **Website**: [sophielin.net](https://www.sophielin.net/)  
 <!--
 **sophieelin/sophieelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
